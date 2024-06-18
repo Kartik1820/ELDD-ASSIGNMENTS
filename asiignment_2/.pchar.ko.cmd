@@ -1,0 +1,1 @@
+cmd_/home/kartik/eldd/asiignment_2/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/kartik/eldd/asiignment_2/pchar.ko /home/kartik/eldd/asiignment_2/pchar.o /home/kartik/eldd/asiignment_2/pchar.mod.o;  true

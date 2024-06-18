@@ -1,0 +1,1 @@
+cmd_/home/kartik/eldd/asiignment_2/Module.symvers :=  sed 's/ko$$/o/'  /home/kartik/eldd/asiignment_2/modules.order | scripts/mod/modpost -m -a    -o /home/kartik/eldd/asiignment_2/Module.symvers -e -i Module.symvers -T - 
